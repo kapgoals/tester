@@ -1,4 +1,4 @@
-list = [3,4,5,4]
+list = [3,4,5,4,7]
 
 running_total = 0
 
